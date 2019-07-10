@@ -1,0 +1,3 @@
+---
+testWebLocate:
+    startup: echo Got code from the web!!!
